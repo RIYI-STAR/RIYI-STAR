@@ -12,25 +12,18 @@
 
 ## 🚀 我的网络空间
 
-<style>
-  a img {
-    width: 20%;
-    height: 30px;
-  }
-</style>
-
 <p align="center">
   <a href="https://starbot.top" target="_blank">
-    <img src="https://img.shields.io/badge/工作室官网-4285F4?style=flat-square&logo=google-chrome&logoColor=white" width="120" alt="工作室官网"/>
+    <img src="https://img.shields.io/badge/工作室官网-4285F4?style=flat-square&logo=google-chrome&logoColor=white" style="width: 20%;height: 30px" alt="工作室官网"/>
   </a>
   <a href="https://blog-riyi.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/我的博客-FF5722?style=flat-square&logo=ghost&logoColor=white" width="120" alt="我的博客"/>
+    <img src="https://img.shields.io/badge/我的博客-FF5722?style=flat-square&logo=ghost&logoColor=white" style="width: 20%;height: 30px" alt="我的博客"/>
   </a>
   <a href="https://space.bilibili.com/541864556" target="_blank">
-    <img src="https://img.shields.io/badge/B站-00A1D6?style=flat-square&logo=bilibili&logoColor=white" width="80" alt="Bilibili"/>
+    <img src="https://img.shields.io/badge/B站-00A1D6?style=flat-square&logo=bilibili&logoColor=white" style="width: 20%;height: 30px" alt="Bilibili"/>
   </a>
   <!-- <a href="https://youtube.com/你的频道" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" width="120" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" style="width: 20%;height: 30px" alt="YouTube"/>
   </a> -->
 </p>
 
