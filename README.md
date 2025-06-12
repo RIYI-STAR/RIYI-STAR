@@ -19,55 +19,23 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RIYI-STAR&color=blueviolet&style=for-the-badge&label=VISITORS)
 
 ---
-
 ## 🚀 我的星际网络空间
 
 <div align="center">
 
-<!-- 圆角卡片式布局 -->
-<table>
-<tr>
-<td align="center" style="padding: 20px;">
-<div style="background: linear-gradient(135deg, #FFD700, #FFA500); border-radius: 20px; padding: 25px; margin: 10px; box-shadow: 0 8px 32px rgba(255, 215, 0, 0.3); width: 200px; height: 150px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-<a href="https://starbot.top" style="text-decoration: none; color: black;">
-<div style="font-size: 48px; margin-bottom: 10px;">🌟</div>
-<div style="font-weight: bold; font-size: 16px;">工作室官网</div>
-<div style="font-size: 12px; opacity: 0.8;">StarBot Studio</div>
+<a href="https://starbot.top">
+<img src="https://img.shields.io/badge/🌟-工作室官网-FFD700?style=for-the-badge&logoColor=black&labelColor=2D1B69" alt="工作室官网" style="margin: 8px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3); transform: scale(1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
-</div>
-</td>
-<td align="center" style="padding: 20px;">
-<div style="background: linear-gradient(135deg, #9370DB, #8A2BE2); border-radius: 20px; padding: 25px; margin: 10px; box-shadow: 0 8px 32px rgba(147, 112, 219, 0.3); width: 200px; height: 150px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-<a href="https://blog-riyi.pages.dev" style="text-decoration: none; color: white;">
-<div style="font-size: 48px; margin-bottom: 10px;">📝</div>
-<div style="font-weight: bold; font-size: 16px;">技术博客</div>
-<div style="font-size: 12px; opacity: 0.8;">Tech Blog</div>
-</a>
-</div>
-</td>
-<td align="center" style="padding: 20px;">
-<div style="background: linear-gradient(135deg, #DDA0DD, #DA70D6); border-radius: 20px; padding: 25px; margin: 10px; box-shadow: 0 8px 32px rgba(221, 160, 221, 0.3); width: 200px; height: 150px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-<a href="https://space.bilibili.com/541864556" style="text-decoration: none; color: black;">
-<div style="font-size: 48px; margin-bottom: 10px;">📺</div>
-<div style="font-weight: bold; font-size: 16px;">B站空间</div>
-<div style="font-size: 12px; opacity: 0.8;">Bilibili Space</div>
-</a>
-</div>
-</td>
-</tr>
-</table>
 
-<!-- 简洁的快速链接 -->
-<br/>
-<p>
-<a href="https://starbot.top"><img src="https://img.shields.io/badge/🌐-官网-FFD700?style=flat-square&logoColor=black"/></a>
-<a href="https://blog-riyi.pages.dev"><img src="https://img.shields.io/badge/📚-博客-9370DB?style=flat-square&logoColor=white"/></a>
-<a href="https://space.bilibili.com/541864556"><img src="https://img.shields.io/badge/🎥-B站-DDA0DD?style=flat-square&logoColor=black"/></a>
-<a href="mailto:riyi@starbot.top"><img src="https://img.shields.io/badge/📧-邮箱-FF6B6B?style=flat-square&logoColor=white"/></a>
-</p>
+<a href="https://blog-riyi.pages.dev">
+<img src="https://img.shields.io/badge/📝-技术博客-9370DB?style=for-the-badge&logoColor=white&labelColor=2D1B69" alt="技术博客" style="margin: 8px; border-radius: 12px; box-shadow: 0 4px 15px rgba(147, 112, 219, 0.3); transform: scale(1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+<a href="https://space.bilibili.com/541864556">
+<img src="https://img.shields.io/badge/📺-B站空间-DDA0DD?style=for-the-badge&logoColor=black&labelColor=2D1B69" alt="B站空间" style="margin: 8px; border-radius: 12px; box-shadow: 0 4px 15px rgba(221, 160, 221, 0.3); transform: scale(1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
 
 </div>
-
 ---
 
 ## 📊 星际数据统计
@@ -152,6 +120,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-**✨ 感谢你来到我的星际空间！✨**
+**✨ 感谢你来到我的空间！✨**
 
 </div>
