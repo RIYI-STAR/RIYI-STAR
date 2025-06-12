@@ -1,5 +1,5 @@
 <!-- 保留精彩的顶部设计 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=RIYI-STAR&fontSize=70&color=0:FFD700,50:9370DB,100:DDA0DD&stroke=FFD700&strokeWidth=2&animation=fadeIn&fontAlignY=35&desc=✨%20STAR+STADIO%20✨&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=RIYI&fontSize=70&color=0:FFD700,50:9370DB,100:DDA0DD&stroke=FFD700&strokeWidth=2&animation=fadeIn&fontAlignY=35&desc=✨%20STAR+STADIO%20✨&descAlignY=55&descSize=20" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
 
