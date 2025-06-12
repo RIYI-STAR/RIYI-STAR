@@ -14,19 +14,23 @@
 ## 💫 联系方式
 
 <div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
-<div align="left" style="width: 50%; display: inline-block; vertical-align: middle;">
+<div style="flex: 1; text-align: left;">
 
 ### 📬 联系我
 📫 **邮箱**: [riyi@starbot.top](mailto:riyi@starbot.top)   
 🐧 **QQ**: `2505599817`
 
-</div><div align="right" style="width: 50%; display: inline-block; vertical-align: middle;">
+</div>
+
+<div style="flex: 1; text-align: right;">
 
 <img src="https://komarev.com/ghpvc/?username=RIYI-STAR&color=blueviolet&style=for-the-badge&label=VISITORS" alt="访客统计"/>
 
 </div>
 
+</div>
 </div>
 
 ---
