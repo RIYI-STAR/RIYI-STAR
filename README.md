@@ -1,5 +1,5 @@
 <!-- 保留精彩的顶部设计 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=RIYI&fontSize=70&color=0:FFD700,50:9370DB,100:DDA0DD&stroke=FFD700&strokeWidth=2&animation=fadeIn&fontAlignY=35&desc=✨%20STAR+STADIO%20✨&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=RIYI-STAR&fontSize=70&color=0:FFD700,50:9370DB,100:DDA0DD&stroke=FFD700&strokeWidth=2&animation=fadeIn&fontAlignY=35&desc=✨%20STAR+STADIO%20✨&descAlignY=55&descSize=20" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
 
@@ -26,15 +26,13 @@
 <div align="center">
 
 <a href="https://starbot.top">
-<img src="https://img.shields.io/badge/🌟-工作室官网-FFD700?style=for-the-badge&logoColor=black&labelColor=2D1B69" alt="工作室官网" style="margin: 8px; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3); transform: scale(1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://img.shields.io/badge/🌟%20工作室官网-FFD700?style=plastic&logoColor=black&labelColor=2D1B69" alt="工作室官网"/>
 </a>
-
 <a href="https://blog-riyi.pages.dev">
-<img src="https://img.shields.io/badge/📝-技术博客-9370DB?style=for-the-badge&logoColor=white&labelColor=2D1B69" alt="技术博客" style="margin: 8px; border-radius: 12px; box-shadow: 0 4px 15px rgba(147, 112, 219, 0.3); transform: scale(1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://img.shields.io/badge/📝%20技术博客-9370DB?style=plastic&logoColor=white&labelColor=2D1B69" alt="技术博客"/>
 </a>
-
 <a href="https://space.bilibili.com/541864556">
-<img src="https://img.shields.io/badge/📺-B站空间-DDA0DD?style=for-the-badge&logoColor=black&labelColor=2D1B69" alt="B站空间" style="margin: 8px; border-radius: 12px; box-shadow: 0 4px 15px rgba(221, 160, 221, 0.3); transform: scale(1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://img.shields.io/badge/📺%20B站空间-DDA0DD?style=plastic&logoColor=black&labelColor=2D1B69" alt="B站空间"/>
 </a>
 
 </div>
