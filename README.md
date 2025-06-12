@@ -1,11 +1,11 @@
 <!-- 保留精彩的顶部设计 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=RIYI-STAR&fontSize=70&color=0:FFD700,50:9370DB,100:DDA0DD&stroke=FFD700&strokeWidth=2&animation=fadeIn&fontAlignY=35&desc=✨%20星际开发者%20✨&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=RIYI-STAR&fontSize=70&color=0:FFD700,50:9370DB,100:DDA0DD&stroke=FFD700&strokeWidth=2&animation=fadeIn&fontAlignY=35&desc=✨%20STAR STADIO%20✨&descAlignY=55&descSize=20" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Galaxy!;🌟+RIYI-STAR+🌟;Exploring+Infinite+Possibilities" alt="Welcome Banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Github!;🌟+RIYI-STAR+🌟;" alt="Welcome Banner" />
 
 </div>
 
@@ -13,8 +13,8 @@
 
 ## 💫 联系方式
 
-📧 **邮箱**: [riyi@starbot.top](mailto:riyi@starbot.top)  
-💬 **QQ**: `2505599817`
+📫 **邮箱**: [riyi@starbot.top](mailto:riyi@starbot.top)  
+🐧 **QQ**: `2505599817`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RIYI-STAR&color=blueviolet&style=for-the-badge&label=VISITORS)
 
@@ -24,9 +24,47 @@
 
 <div align="center">
 
-[![🌟 工作室官网](https://img.shields.io/badge/🌟_工作室官网-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://starbot.top)
-[![📝 我的博客](https://img.shields.io/badge/📝_我的博客-9370DB?style=for-the-badge&logo=ghost&logoColor=white)](https://blog-riyi.pages.dev)
-[![📺 B站空间](https://img.shields.io/badge/📺_B站空间-DDA0DD?style=for-the-badge&logo=bilibili&logoColor=black)](https://space.bilibili.com/541864556)
+<!-- 圆角卡片式布局 -->
+<table>
+<tr>
+<td align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #FFD700, #FFA500); border-radius: 20px; padding: 25px; margin: 10px; box-shadow: 0 8px 32px rgba(255, 215, 0, 0.3); width: 200px; height: 150px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<a href="https://starbot.top" style="text-decoration: none; color: black;">
+<div style="font-size: 48px; margin-bottom: 10px;">🌟</div>
+<div style="font-weight: bold; font-size: 16px;">工作室官网</div>
+<div style="font-size: 12px; opacity: 0.8;">StarBot Studio</div>
+</a>
+</div>
+</td>
+<td align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #9370DB, #8A2BE2); border-radius: 20px; padding: 25px; margin: 10px; box-shadow: 0 8px 32px rgba(147, 112, 219, 0.3); width: 200px; height: 150px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<a href="https://blog-riyi.pages.dev" style="text-decoration: none; color: white;">
+<div style="font-size: 48px; margin-bottom: 10px;">📝</div>
+<div style="font-weight: bold; font-size: 16px;">技术博客</div>
+<div style="font-size: 12px; opacity: 0.8;">Tech Blog</div>
+</a>
+</div>
+</td>
+<td align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #DDA0DD, #DA70D6); border-radius: 20px; padding: 25px; margin: 10px; box-shadow: 0 8px 32px rgba(221, 160, 221, 0.3); width: 200px; height: 150px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<a href="https://space.bilibili.com/541864556" style="text-decoration: none; color: black;">
+<div style="font-size: 48px; margin-bottom: 10px;">📺</div>
+<div style="font-weight: bold; font-size: 16px;">B站空间</div>
+<div style="font-size: 12px; opacity: 0.8;">Bilibili Space</div>
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- 简洁的快速链接 -->
+<br/>
+<p>
+<a href="https://starbot.top"><img src="https://img.shields.io/badge/🌐-官网-FFD700?style=flat-square&logoColor=black"/></a>
+<a href="https://blog-riyi.pages.dev"><img src="https://img.shields.io/badge/📚-博客-9370DB?style=flat-square&logoColor=white"/></a>
+<a href="https://space.bilibili.com/541864556"><img src="https://img.shields.io/badge/🎥-B站-DDA0DD?style=flat-square&logoColor=black"/></a>
+<a href="mailto:riyi@starbot.top"><img src="https://img.shields.io/badge/📧-邮箱-FF6B6B?style=flat-square&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -45,12 +83,11 @@
 </div>
 
 ---
-
 ## 🌌 技能星座
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,git,html,css,vue,typescript,docker&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,docker,git,vscode,minecraft&theme=dark" alt="Skills" />
 
 </div>
 
@@ -70,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&width=600&lines=🔭+正在探索新的技术星系...;🛸+构建下一代星际应用...;⭐+为开源宇宙贡献力量...;🌟+学习AI和机器学习...;💫+优化代码性能..." alt="Current Tasks" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&width=600&lines=🔭+PMSS-Pro物理模拟系统...;🛸+StarCraftMC服务器...;⭐+为开源宇宙贡献力量...;🌟+STARBOT机器人...;💫+优化代码性能..." alt="Current Tasks" />
 
 </div>
 
@@ -94,7 +131,7 @@
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/541864556)
 
 </div>
 
