@@ -1,122 +1,120 @@
+<!-- 保留精彩的顶部设计 -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=RIYI-STAR&fontSize=70&color=0:FFD700,50:9370DB,100:DDA0DD&stroke=FFD700&strokeWidth=2&animation=fadeIn&fontAlignY=35&desc=✨%20星际开发者%20✨&descAlignY=55&descSize=20" />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
 
 <div align="center">
 
-<!-- 星空背景容器 -->
-<div style="position: relative; background: linear-gradient(135deg, #0c0c0c 0%, #1a0033 25%, #2d1b69 50%, #1a0033 75%, #0c0c0c 100%); padding: 60px 20px; border-radius: 20px; overflow: hidden; margin-bottom: 30px;">
-  
-  <!-- 星空动画背景 -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: radial-gradient(2px 2px at 20px 30px, #ffd700, transparent), radial-gradient(2px 2px at 40px 70px, #ffd700, transparent), radial-gradient(1px 1px at 90px 40px, #ffd700, transparent), radial-gradient(1px 1px at 130px 80px, #ffd700, transparent), radial-gradient(2px 2px at 160px 30px, #ffd700, transparent); background-repeat: repeat; background-size: 200px 100px; animation: sparkle 3s linear infinite;"></div>
-  
-  <!-- 主标题动画 -->
-  <h1 style="font-size: 4em; font-weight: bold; background: linear-gradient(45deg, #ffd700, #ffb347, #dda0dd, #9370db); background-size: 400% 400%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradientShift 3s ease-in-out infinite, fadeInUp 2s ease-out; text-shadow: 0 0 30px rgba(255, 215, 0, 0.5); margin: 0; letter-spacing: 0.1em;">
-    RIYI-STAR
-  </h1>
-  
-  <!-- 副标题 -->
-  <p style="font-size: 1.2em; color: #dda0dd; margin-top: 20px; animation: fadeInUp 2s ease-out 0.5s both; text-shadow: 0 0 10px rgba(221, 160, 221, 0.3);">
-    ✨ 探索无限可能的星际开发者 ✨
-  </p>
-  
-</div>
-
-<!-- CSS动画定义 -->
-<style>
-@keyframes sparkle {
-  0% { transform: translateY(0px); }
-  100% { transform: translateY(-100px); }
-}
-
-@keyframes gradientShift {
-  0%, 100% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-}
-
-@keyframes fadeInUp {
-  0% {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes glow {
-  0%, 100% { box-shadow: 0 0 20px rgba(255, 215, 0, 0.3); }
-  50% { box-shadow: 0 0 30px rgba(255, 215, 0, 0.6), 0 0 40px rgba(147, 112, 219, 0.3); }
-}
-</style>
-
-## 💫 联系方式
-
-<div style="background: linear-gradient(135deg, rgba(13, 13, 13, 0.9), rgba(26, 0, 51, 0.9)); padding: 25px; border-radius: 15px; border: 1px solid #ffd700; margin: 20px 0;">
-  
-📧 **邮箱**: <a href="mailto:riyi@starbot.top" style="color: #ffd700; text-decoration: none;">riyi@starbot.top</a>  
-💬 **QQ**: <span style="color: #dda0dd;">2505599817</span>
-
-</div>
-
-## 🚀 我的星际网络空间
-
-<p align="center" style="margin: 30px 0;">
-  <a href="https://starbot.top" target="_blank">
-    <img src="https://img.shields.io/badge/🌟_工作室官网-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=1a0033" style="margin: 5px; animation: glow 2s ease-in-out infinite;" alt="工作室官网"/>
-  </a>
-  <a href="https://blog-riyi.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/📝_我的博客-9370DB?style=for-the-badge&logo=ghost&logoColor=white&labelColor=1a0033" style="margin: 5px; animation: glow 2s ease-in-out infinite 0.5s;" alt="我的博客"/>
-  </a>
-  <a href="https://space.bilibili.com/541864556" target="_blank">
-    <img src="https://img.shields.io/badge/📺_B站空间-DDA0DD?style=for-the-badge&logo=bilibili&logoColor=black&labelColor=1a0033" style="margin: 5px; animation: glow 2s ease-in-out infinite 1s;" alt="Bilibili"/>
-  </a>
-</p>
-
-## 📊 星际数据统计
-
-<div align="center" style="background: linear-gradient(135deg, rgba(13, 13, 13, 0.8), rgba(45, 27, 105, 0.8)); padding: 30px; border-radius: 20px; border: 2px solid #ffd700; margin: 20px 0;">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=RIYI-STAR&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=0d1117&title_color=ffd700&text_color=dda0dd&icon_color=9370db&border_color=ffd700" alt="RIYI's GitHub Stats" style="margin: 10px;"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIYI-STAR&layout=compact&theme=radical&bg_color=0d1117&title_color=ffd700&text_color=dda0dd&border_color=ffd700" alt="Top Languages" style="margin: 10px;"/>
-
-</div>
-
-## 🌌 技能星座
-
-<div align="center" style="margin: 30px 0;">
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a0033)
-![Python](https://img.shields.io/badge/Python-9370DB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0033)
-![React](https://img.shields.io/badge/React-DDA0DD?style=for-the-badge&logo=react&logoColor=black&labelColor=1a0033)
-![Node.js](https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=black&labelColor=1a0033)
-![Git](https://img.shields.io/badge/Git-9370DB?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0033)
-
-</div>
-
-## 🎯 当前任务
-
-<div style="background: linear-gradient(45deg, rgba(255, 215, 0, 0.1), rgba(147, 112, 219, 0.1)); padding: 20px; border-radius: 10px; border-left: 4px solid #ffd700; margin: 20px 0;">
-  
-🔭 正在探索新的技术星系...  
-🛸 构建下一代星际应用...  
-⭐ 为开源宇宙贡献力量...
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Galaxy!;🌟+RIYI-STAR+🌟;Exploring+Infinite+Possibilities" alt="Welcome Banner" />
 
 </div>
 
 ---
 
-<div align="center" style="margin-top: 40px;">
-  
-<img src="https://profile-counter.glitch.me/RIYI-STAR/count.svg" alt="Visitor Count" style="filter: hue-rotate(45deg) brightness(1.2);"/>
+## 💫 联系方式
 
-<p style="color: #dda0dd; font-style: italic; margin-top: 20px;">
-  "在代码的星海中，每一行都是通往未来的星光" ✨
-</p>
+📧 **邮箱**: [riyi@starbot.top](mailto:riyi@starbot.top)  
+💬 **QQ**: `2505599817`
+
+![Profile Views](https://komarev.com/ghpvc/?username=RIYI-STAR&color=blueviolet&style=for-the-badge&label=VISITORS)
+
+---
+
+## 🚀 我的星际网络空间
+
+<div align="center">
+
+[![🌟 工作室官网](https://img.shields.io/badge/🌟_工作室官网-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://starbot.top)
+[![📝 我的博客](https://img.shields.io/badge/📝_我的博客-9370DB?style=for-the-badge&logo=ghost&logoColor=white)](https://blog-riyi.pages.dev)
+[![📺 B站空间](https://img.shields.io/badge/📺_B站空间-DDA0DD?style=for-the-badge&logo=bilibili&logoColor=black)](https://space.bilibili.com/541864556)
 
 </div>
 
+---
+
+## 📊 星际数据统计
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RIYI-STAR&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=0d1117&title_color=ffd700&text_color=dda0dd&icon_color=9370db&border_color=ffd700" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIYI-STAR&layout=compact&theme=radical&bg_color=0d1117&title_color=ffd700&text_color=dda0dd&border_color=ffd700" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIYI-STAR&theme=radical&background=0d1117&stroke=ffd700&ring=ffd700&fire=9370db&currStreakNum=dda0dd&sideNums=dda0dd&currStreakLabel=ffd700&sideLabels=ffd700&dates=dda0dd" alt="GitHub Streak" />
+
 </div>
 
+---
 
+## 🌌 技能星座
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,git,html,css,vue,typescript,docker&theme=dark" alt="Skills" />
+
+</div>
+
+---
+
+## 📈 贡献活动
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIYI-STAR&bg_color=0d1117&color=ffd700&line=9370db&point=dda0dd&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎯 当前任务
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&width=600&lines=🔭+正在探索新的技术星系...;🛸+构建下一代星际应用...;⭐+为开源宇宙贡献力量...;🌟+学习AI和机器学习...;💫+优化代码性能..." alt="Current Tasks" />
+
+</div>
+
+---
+
+## 🏆 成就徽章
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/RIYI-STAR?color=gold&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/RIYI-STAR?color=gold&style=for-the-badge)
+![Total Commits](https://img.shields.io/badge/Total_Commits-1000+-9370DB?style=for-the-badge)
+
+<img src="https://github-profile-trophy.vercel.app/?username=RIYI-STAR&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🎵 正在听的音乐
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
+
+</div>
+
+---
+
+<!-- 保留精彩的底部设计 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,14,17,12,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFD700&animation=twinkling&fontAlignY=75" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=在代码的星海中，每一行都是通往未来的星光;Code+is+poetry,+bugs+are+just+typos;Stay+hungry,+stay+foolish,+keep+coding;The+best+way+to+predict+the+future+is+to+create+it" alt="Quote" />
+
+<img src="https://profile-counter.glitch.me/RIYI-STAR/count.svg" alt="Visitor Count" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+**✨ 感谢你来到我的星际空间！✨**
+
+</div>
