@@ -13,15 +13,28 @@
 
 ## 💫 联系方式
 
-📫 **邮箱**: [riyi@starbot.top](mailto:riyi@starbot.top)  
+<div align="center">
+<table>
+<tr>
+<td width="60%" align="left">
+
+### 📬 联系我
+📫 **邮箱**: [riyi@starbot.top](mailto:riyi@starbot.top)   
 🐧 **QQ**: `2505599817`
 
-![Profile Views](https://komarev.com/ghpvc/?username=RIYI-STAR&color=blueviolet&style=for-the-badge&label=VISITORS)
+</td>
+<td width="40%" align="right">
 
+<img src="https://komarev.com/ghpvc/?username=RIYI-STAR&color=blueviolet&style=for-the-badge&label=VISITORS" alt="访客统计"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 🚀 我的星际网络空间
+## 🚀 网络空间
 
 <div align="center">
 
@@ -38,7 +51,7 @@
 </div>
 ---
 
-## 📊 星际数据统计
+## 📊 数据统计
 
 <div align="center">
 
@@ -112,7 +125,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=在代码的星海中，每一行都是通往未来的星光;Code+is+poetry,+bugs+are+just+typos;Stay+hungry,+stay+foolish,+keep+coding;The+best+way+to+predict+the+future+is+to+create+it" alt="Quote" />
 
-<img src="https://profile-counter.glitch.me/RIYI-STAR/count.svg" alt="Visitor Count" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
