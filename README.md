@@ -39,15 +39,15 @@
 <div align="center">
 
 <a href="https://starbot.top">
-<img src="https://img.shields.io/badge/🌟%20工作室官网-FFD700?style=for-the-badge&logoColor=black&labelColor=2D1B69" height="80" width="80" alt="工作室官网"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFD700&height=80&section=header&text=🌟&fontSize=40&fontColor=000000&animation=fadeIn&width=80" alt="Studio"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://blog-riyi.pages.dev">
-<img src="https://img.shields.io/badge/📝%20技术博客-9370DB?style=for-the-badge&logoColor=white&labelColor=2D1B69" height="80" width="80" alt="技术博客"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=9370DB&height=80&section=header&text=📝&fontSize=40&fontColor=ffffff&animation=fadeIn&width=80" alt="Blog"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://space.bilibili.com/541864556">
-<img src="https://img.shields.io/badge/📺%20B站空间-DDA0DD?style=for-the-badge&logoColor=black&labelColor=2D1B69" height="80" width="80" alt="B站空间"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=DDA0DD&height=80&section=header&text=📺&fontSize=40&fontColor=000000&animation=fadeIn&width=80" alt="Bilibili"/>
 </a>
 
 </div>
