@@ -16,14 +16,17 @@
 <div align="center">
 <table>
 <tr>
-<td width="60%" align="left">
+<td width="45%" align="left">
 
 ### 📬 联系我
 📫 **邮箱**: [riyi@starbot.top](mailto:riyi@starbot.top)   
 🐧 **QQ**: `2505599817`
 
 </td>
-<td width="40%" align="right">
+<td width="10%">
+
+</td>
+<td width="45%" align="right">
 
 <img src="https://komarev.com/ghpvc/?username=RIYI-STAR&color=blueviolet&style=for-the-badge&label=VISITORS" alt="访客统计"/>
 
@@ -49,6 +52,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 📊 数据统计
