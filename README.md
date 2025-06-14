@@ -90,9 +90,6 @@
 <table align="center">
 <tr>
 <td width="50%" align="center" style="position:relative;">
-  <div style="position:absolute;top:-15px;right:-15px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30">
-  </div>
   <div align="center" class="project-card">
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="40">
     <h3>🎮 PMSS-Pro 物理模拟系统</h3>
