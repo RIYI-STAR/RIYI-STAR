@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIYI-STAR&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117,1a1a2e,16213e&title_color=FF6B6B&text_color=C9D1D9&icon_color=FFD93D&border_radius=15" alt="GitHub Stats" />
+  ![Keenran's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIYI+STARhazra&hide=contribs,prs)
 </div>
 
 
