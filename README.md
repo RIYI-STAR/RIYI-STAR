@@ -19,7 +19,9 @@
 
 
 <div align="center">
-  ![Keenran's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIYI+STARhazra&hide=contribs,prs)
+  
+[![Keenran's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIYI+STAR)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
